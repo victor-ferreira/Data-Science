@@ -20,7 +20,7 @@ In this way, I combine analytical skills, didactics and teamwork. Having spent t
 ## Projetos:
 Veja meus projetos em Data Science:
 
-* **Analisando os dados do Airbnb:** https://bit.ly/2L2cMty
+* **Analisando os dados do Airbnb:** https://bit.ly/3ocu3ps
 
 
 ---
